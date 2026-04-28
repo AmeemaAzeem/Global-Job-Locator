@@ -7,6 +7,9 @@ Global Job Locator is a full-stack web application that allows users to search f
 Live Project Link:
 https://global-job-locator.netlify.app/
 
+Backend project deployed by railway Link:
+confident-contentment-production-52ca.up.railway.app
+
 ---
 
 ## Features
@@ -92,7 +95,3 @@ All endpoints were tested for:
 - Error handling
 
 ---
-
-## License
-
-This project is for educat

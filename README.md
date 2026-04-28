@@ -8,7 +8,7 @@ Live Project Link:
 https://global-job-locator.netlify.app/
 
 Backend project deployed by railway Link:
-confident-contentment-production-52ca.up.railway.app
+https://confident-contentment-production-52ca.up.railway.app/
 
 ---
 

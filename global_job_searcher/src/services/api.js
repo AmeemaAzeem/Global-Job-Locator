@@ -1,11 +1,9 @@
 import axios from "axios";
 
+const BASE_URL = "https://confident-contentment-production-52ca.up.railway.app";
+
 export const fetchJobs = (keyword, country) => {
-  let url = `http://localhost:5000/api/jobs/search?keyword=${keyword}`;
-
-  if (country && country.trim() !== "") {
-    url += `&country=${country}`;
-  }
-
-  return axios.get(url);
+  return axios.get(
+    `${BASE_URL}/api/jobs/search?keyword=${keyword}&country=${country}`
+  );
 };
